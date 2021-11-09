@@ -1,2 +1,2 @@
 # stw-kasir
-rencana untuk pengeolahan kasir ke depannya
+rencana untuk pengolahan kasir di warung Soto ayam
